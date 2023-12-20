@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Coding enthusiast turning caffeine into code, one bug at a time!
+I am Aphelele Martin Bojana,I am currently pursuing my FULL STACK JAVA WEB DEVELOPMENT AT zaio.io and My software development at Camblish Training institute. I am a tech enthusiast & a self learner.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [my website](http://martinaphelelebojana.netlify.app/)
